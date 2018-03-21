@@ -1,8 +1,8 @@
 {
   "name": "leaflet.toolbar",
   "main": [
-    "leaflet.toolbar.css",
-    "leaflet.toolbar.js"
+    "dist/leaflet.toolbar.css",
+    "dist/leaflet.toolbar.js"
   ],
   "version": "0.1.2",
   "homepage": "https://github.com/Leaflet/Leaflet.toolbar",
